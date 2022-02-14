@@ -1,0 +1,19 @@
+$nomention
+$reply
+$title[$username]
+$description[
+📕 Tag do Discord
+$username[$mentioned[1]]$discriminator[$mentioned[1]]
+
+💻 ID do Discord
+$mentioned[1]
+
+🤖 É um robô?
+$isBot[$findUser[$message]]
+
+🗓️ Conta criada há
+$creationDate[$mentioned[1]]
+]
+$thumbnail[$userAvatar[$mentioned[1]]]
+$footer[comando executado por $username]
+$addTimestamp
